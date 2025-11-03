@@ -1,0 +1,33 @@
+/* this file allows you to define style globally ,applied style to all components in the app. */
+/* Global styles applied to all components */
+body {
+    color: #213547;
+    background-color: #ffffff;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: #747bff;
+}
+
+button {
+    background-color: #2b78d6;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-size: 25px;
+    border-radius: 5px;
+}
+
+.grid-two--cols {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.grid-three--cols {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}

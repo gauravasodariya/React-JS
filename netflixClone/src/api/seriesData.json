@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Queen of Tears",
+    "imageUrl": "https://picsum.photos/seed/1/150/200",
+    "rating": 8.2,
+    "description": "Industry's standard dummy text ever since the 1500s.",
+    "genre": "Drama",
+    "watchUrl": "https://example.com/watch/queen_of_tears"
+  },
+  {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/2/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  },
+  {
+    "id": 1,
+    "name": "Queen of Tears",
+    "imageUrl": "https://picsum.photos/seed/3/150/200",
+    "rating": 8.2,
+    "description": "Industry's standard dummy text ever since the 1500s.",
+    "genre": "Drama",
+    "watchUrl": "https://example.com/watch/queen_of_tears"
+  },
+  {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/4/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  },
+    {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/5/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  },
+    {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/6/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  },
+    {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/7/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  },
+    {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/8/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  },
+    {
+    "id": 2,
+    "name": "Mystery of Shadows",
+    "imageUrl": "https://picsum.photos/seed/9/150/200",
+    "rating": 7.9,
+    "description": "A thrilling story full of suspense and unexpected twists.",
+    "genre": "Thriller",
+    "watchUrl": "https://example.com/watch/mystery_of_shadows"
+  }
+]
+
