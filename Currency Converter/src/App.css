@@ -1,0 +1,96 @@
+/* General page setup */
+body {
+  background: linear-gradient(135deg, #141e30, #243b55);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Currency Converter Container */
+.currency-converter {
+  background-color: #f8f9fb;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  width: 350px;
+}
+
+.currency-div h2 {
+  color: #0077b6;
+  font-size: 1.6rem;
+  margin-bottom: 20px;
+}
+
+/* Input fields */
+.currency-div input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.3s;
+}
+
+.currency-div input:focus {
+  border-color: #0077b6;
+}
+
+/* Currency selectors */
+.currency-selector {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.currency-selector select {
+  width: 100%;
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.3s;
+}
+
+.currency-selector select:focus {
+  border-color: #0077b6;
+}
+
+/* Button styling */
+button {
+  width: 100%;
+  background-color: #00b4d8;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: bold;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover:not(:disabled) {
+  background-color: #0096c7;
+}
+
+button:disabled {
+  background-color: #b0c4de;
+  cursor: not-allowed;
+}
+
+/* Conversion result text (optional styling for output later) */
+.result-text {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #333;
+}
